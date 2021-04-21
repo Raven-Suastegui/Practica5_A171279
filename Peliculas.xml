@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Practica5_A171279/Peliculas.xsl"?>
+<Peliculas>
+<Titulo>
+  <Nombre>Pi el orden del caos</Nombre>
+  <Director>Darren Aronofsky</Director>
+</Titulo>
+<Titulo>
+  <Nombre>Nosferatu</Nombre>
+  <Director>Friedrich Wilhelm Murnau</Director>
+</Titulo>
+<Titulo>
+  <Nombre>Snatch</Nombre>
+  <Director>Guy Ritchie</Director>
+</Titulo>
+</Peliculas>
